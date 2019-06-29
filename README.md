@@ -22,7 +22,7 @@
 ## Image
 - **Neko:** Sends An Embed With A Cat Girl :) (Using Nekos.life API)
 
-- **NsfwNeko:** Sends An Embed With A Cat Girl :) (Results Vary From Lewd - hentai ~Can Only Be Used In **Nsfw Chats**) (Using Nekos.life API)
+- **NsfwNeko:** Sends An Embed With A Cat Girl :) (Results Vary From Lewd - hentai ~Can Only Be Used In **Nsfw Chats**) (Using Nekos.life API) (**Disabled in Armada Discord lol**)
 
 - **Kiss:** Kisses Someone (**Note:** Cannot Kiss God Kiana Sorry To Get Your Hopes Up) (Using Nekos.life API)
 
