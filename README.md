@@ -44,6 +44,10 @@
 
 - **ServerInfo:** Information About The Server (User Must Have **Manage Roles** To Use This)
 
+- **Slayer:** Lists Users With Slayer Role (User Must Have **Manage Roles** To Use This) (idk why i made this lol)
+
+- **JoinOrder:** Full Server Join Order Including Bots (User Must Have **Manage Roles** To Use This)
+
 - **Say:** Sends Message As The Bot Then Deletes Command Message (User Must Have **Manage Messages** To Use This)
 
 - **Send:** Sends Message To A Channel As The Bot **~Usage &Send {Channel/Channel.id} {Message}** (User Must Have **Manage Messages** To Use This)
