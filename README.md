@@ -40,7 +40,7 @@
 
 - **Clear:** Clears Up To 100 Messages (User Must Have **Manage Messages** To Use This)
 
-- **List:** Lists members from a role **~Usage &List {Mention/Name}** (User Must Have **Manage Messages** To Use This) (**Note:** Cannot search for role by Id cause im lazy ;) )
+- **List:** Lists members from a role **~Usage &List {Mention/Name}** (User Must Have **Manage Roles** To Use This) (**Note:** Cannot search for role by Id cause im lazy ;) )
 
 - **Whois:** Information About A User (User Must Have **Manage Roles** To Use This) (**Note:** This Was A Pretty Hard Command To Make)
 
