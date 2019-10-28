@@ -24,11 +24,17 @@
 
 - **NsfwNeko:** Sends An Embed With A Cat Girl :) (Results Vary From Lewd - hentai ~Can Only Be Used In **Nsfw Chats**) (Using Nekos.life API) (**Disabled in Armada Discord lol**)
 
+- **Smug:** Sends a gif saying your smug its quite simple tbh (**Note:** Does not work by mentioning others) (Using Nekos.life API)
+
 - **Kiss:** Kisses Someone (**Note:** Cannot Kiss God Kiana Sorry To Get Your Hopes Up) (Using Nekos.life API)
 
 - **Hug:** Hugs Someone (Cannot Send/Receive To/From God Kiana Without **Slayer** Role) (Using Nekos.life API)
 
+- **Cuddle:** Cuddles Someone (*Dont even think about trying to cuddle GK you pervert*) (Using Nekos.life API)
+
 - **Pat:** Pats Someone (Cannot Pat God Kiana/Receive Pats From God Kiana Without **Slayer** Role) (Using Nekos.life API)
+
+- **Poke:** Pokes Someone (**Don't touch my waifu!** *she does not accept pokes unless from me* ;) ) (Using Nekos.life API)
 
 - **Baka** Calls Someone A Baka (**Note:** Cannot Call God Kiana A Baka Without Severe Consequences) (Using Nekos.life API)
 
