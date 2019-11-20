@@ -11,11 +11,11 @@
 - **Bi:** Sends An Embed With Reactions For Easy Grouping (**Slayer** Only Also Only Works In **#Boss_Invasion**)
 
 ## Fun/Random
-- **Killme:** Sends Random Response[**3**] (if user has role **Slayer**/has permission **Manage Roles** Sends will not allow your death response)
+- **Killme:** Sends Random Response[**4**] (if user has role **Slayer**/has permission **Manage Roles** Sends will not allow your death response)
 
-- **ILoveYouGK:** Sends Random Response[**4**] (if user has **Slayer** role Sends Nice Response[**4**] Also Nicer If User Is Bot Helper)
+- **ILoveYouGK:** Sends Random Response[**6**] (if user has **Slayer** role Sends Nice Response[**5**] Also Nicer If User Is Bot Helper)
 
-- **IHateYouGk:** Sends Random Response[**4**] (Can Get You Banned Or Killed)
+- **IHateYouGk:** Sends Random Response[**5**] (Can Get You Banned Or Killed)
 
 - **BestValk:** Sends Embed That Will Show The Current Best Valks In Order From The Game **Honkai Impact 3rd**
 
