@@ -1,4 +1,29 @@
-# God Kiana Commands
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Oni Mei" src="https://cdn.discordapp.com/avatars/572386055928414208/e0b1a6e2af411acde9d9bb1477f2c6f1.png?size=1024">  
+
+# Oni Mei aka God Kiana
+<b>Dependencies</b>
+
+![discord.js](https://img.shields.io/badge/discord.js-v12.5.1-brightgreen.svg) ![node](https://img.shields.io/badge/Node-v12.0.0+-brightgreen.svg)
+
+## Table of Contents
+- [Bot Information](#bot-info)
+- [Invite](#invite)
+- [Permissions](#permissions)
+- [Commands](#commands)
+	* [Utility](#utility)
+	* [Fun](#fun-misc)
+	* [Image](#image)
+	* [Mod](#admin-and-moderator)
+	* [Dev](#owner-commands)
+- [Old Commands](#old-commands)
+
+## Bot Info
+
+## Invite
+
+## Permissions
+
+## Commands
 
 ## Utility
 - **Info:** The Bots Information
@@ -7,10 +32,7 @@
 
 - **Avatar:** Displays A Users Avatar (Pretty Simple)
 
-## Slayer
-- **Bi:** Sends An Embed With Reactions For Easy Grouping (**Slayer** Only Also Only Works In **#Boss_Invasion**)
-
-## Fun/Random
+## Fun misc
 - **Killme:** Sends Random Response[**4**] (if user has role **Slayer**/has permission **Manage Roles** Sends will not allow your death response)
 
 - **ILoveYouGK:** Sends Random Response[**6**] (if user has **Slayer** role Sends Nice Response[**5**] Also Nicer If User Is Bot Helper)
@@ -39,7 +61,7 @@
 - **Baka** Calls Someone A Baka (**Note:** Cannot Call God Kiana A Baka Without Severe Consequences) (Using Nekos.life API)
 
 
-# Admin/Moderator Commands
+## Admin And Moderator
 - **Kick:** Kicks A Member From Your Server **~Usage &Kick {Member/id} {Reason}** (**Note:** Uses Roles To Check If You Can Use For Now Have Not Got Around To Changing It Yet)
 
 - **Ban:** Bans A Member From Your Server **~Usage &Ban {Member/id} {Reason}** (**Note:** Uses Roles To Check If You Can Use For Now Have Not Got Around To Changing It Yet)
@@ -52,8 +74,6 @@
 
 - **ServerInfo:** Information About The Server (User Must Have **Manage Roles** To Use This)
 
-- **Slayer:** Lists Users With Slayer Role (User Must Have **Manage Roles** To Use This) (idk why i made this lol)
-
 - **JoinOrder:** Full Server Join Order Including Bots (User Must Have **Manage Roles** To Use This)
 
 - **Say:** Sends Message As The Bot Then Deletes Command Message (User Must Have **Manage Messages** To Use This)
@@ -62,5 +82,14 @@
 
 - **Dm:** Sends Message To A User As The Bot **~Usage &Dm {Member/id} {Message}** (User Must Have **Manage Messages** To Use This)
 
-# Owner Commands
+## Owner Commands
 **As If I Would Tell You**
+
+## Old Commands
+
+### Slayer
+- **Bi:** Sends An Embed With Reactions For Easy Grouping (**Slayer** Only Also Only Works In **#Boss_Invasion**)
+
+## Admin & Moderator
+
+- **Slayer:** Lists Users With Slayer Role (User Must Have **Manage Roles** To Use This) (idk why i made this lol)
