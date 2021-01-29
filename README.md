@@ -19,6 +19,21 @@
 
 ## Bot Info
 
+- **Commands:**
+
+- **Lines of Code:**
+
+- **Made By:** DemonWaifuFan1488#0849 aka Arcadia
+
+- **Contributors:**
+  * Zyram
+  * Mr.KeK 
+  * TihiKonjko
+
+- **Created At:** Mon, Apr 29th 2019, 11:37
+
+- **Indev** Almost 2 Years! (~641 Days)
+
 ## Invite
 
 ## Permissions
@@ -90,6 +105,6 @@
 ### Slayer
 - **Bi:** Sends An Embed With Reactions For Easy Grouping (**Slayer** Only Also Only Works In **#Boss_Invasion**)
 
-## Admin & Moderator
+### Admin & Moderator
 
 - **Slayer:** Lists Users With Slayer Role (User Must Have **Manage Roles** To Use This) (idk why i made this lol)
