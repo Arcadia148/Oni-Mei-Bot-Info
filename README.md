@@ -3,6 +3,8 @@
 # Oni Mei aka God Kiana
 <b>Best Discord Bot ever Created!</b>
 
+![discord.js](https://img.shields.io/badge/discord.js-v12.5.1-brightgreen.svg) ![node](https://img.shields.io/badge/MeiCommando-v0.0.1-brightgreen.svg)
+
 ## [Invite Me](https://discord.com/api/oauth2/authorize?client_id=572386055928414208&permissions=339078230&scope=bot%20applications.commands)
 
 ## Table of Contents
