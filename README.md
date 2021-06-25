@@ -1,15 +1,14 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Oni Mei" src="https://cdn.discordapp.com/avatars/572386055928414208/e0b1a6e2af411acde9d9bb1477f2c6f1.png?size=1024">  
 
 # Oni Mei aka God Kiana
-<b>Dependencies</b>
+<b>Best Discord Bot ever Created!</b>
 
-![discord.js](https://img.shields.io/badge/discord.js-v12.5.1-brightgreen.svg) ![node](https://img.shields.io/badge/Node-v12.0.0+-brightgreen.svg)
+## [Invite Me](https://discord.com/api/oauth2/authorize?client_id=572386055928414208&permissions=339078230&scope=bot%20applications.commands)
 
 ## Table of Contents
 - [Bot Information](#bot-info)
-- [Invite](#invite)
 - [Permissions](#permissions)
-- [Commands](#commands)
+- [Commands](#commands) (Needs Updating)
 	* [Utility](#utility)
 	* [Fun](#fun-misc)
 	* [Image](#image)
@@ -19,11 +18,11 @@
 
 ## Bot Info
 
-- **Commands:**
+- **Commands:** 87
 
-- **Lines of Code:**
+- **Lines of Code:** 6177
 
-- **Made By:** DemonWaifuFan1488#0849 aka Arcadia
+- **Made By:** Rimuru Tempest#1812 aka Arcadia
 
 - **Contributors:**
   * Zyram
@@ -32,9 +31,7 @@
 
 - **Created At:** Mon, Apr 29th 2019, 11:37
 
-- **Indev** Almost 2 Years! (~641 Days)
-
-## Invite
+- **Indev** 2 Years! (~788 Days)
 
 ## Permissions
 
